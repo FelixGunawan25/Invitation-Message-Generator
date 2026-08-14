@@ -4,7 +4,7 @@ A browser-based tool that merges a contact roster into personalized WhatsApp
 invitations — one click per recipient, with message formatting preserved and
 send status tracked.
 
-**[Live demo →](https://felixgunawan25.github.io/invitation-message-generator/)**
+**[Live demo →](https://felixgunawan25.github.io/Invitation-Message-Generator/)**
 
 > All names and phone numbers in this demo are placeholders. The original
 > roster contains personal contact data and is not included in this repository.
